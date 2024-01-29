@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Akos.</h1>
+<h1 align="center">Hi 👋 My name is Akos.</h1>
 
 I'm working as a Google Cloud (infrastructure) Architect.
 </br>
@@ -9,6 +9,7 @@ My goal is to move closer to the software level and deliver product features, no
 </br>   ⌨️  I'm currently working on [my new keyboard.](http://akoskohl/zmk-config)
 </br>   🧠  I'm learning fullstack development with Firebase and GCP as backend.
 </br>   🤝  I'm open to collaborate and interested to work on cloud based SaaS products.
+</br>   🎓  Check out my GCP certifications [wallet.](https://google.accredible.com/profile/kohlakos/wallet)
 
 </br>
 <p align="center">
