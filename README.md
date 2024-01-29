@@ -5,7 +5,7 @@ I'm a Google Cloud Architect / Consultant
 
 *   🌍  I'm based in Budapest.
 *   🖥️  See my portfolio at [GitHub.](http://github.com/akoskohl)
-*   ✉️  You can contact me at [kohlakos@gmail.com](mailto:kohlakos@gmail.com)
+*   ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/kohlakos/)
 *   🚀  I'm currently working on [my new keyboard.](http://akoskohl/zmk-config)
 *   🧠  I'm learning fullstack development with Firebase and GCP as backend.
 *   🤝  I'm open to collaborating on SaaS products
