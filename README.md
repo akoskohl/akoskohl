@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Akos.</h1>
 
-I'm currently a Google Cloud (infrastructure) Architect.
+I'm working as a Google Cloud (infrastructure) Architect.
 </br>
 My goal is to move closer to the software level and deliver product features, not just infra.
 
