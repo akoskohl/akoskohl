@@ -2,14 +2,16 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ============================================================================================================================
 
 I'm currently a Google Cloud Architect / Consultant.
-Want to move closer to the software level in the cloud
+Want to move closer to the software level in the cloud.
 
-*   🌍  I'm based in Budapest.
+*   🌍  I'm based in the EU.
 *   🖥️  See my portfolio at [GitHub.](http://github.com/akoskohl)
 *   ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/kohlakos/)
-*   🚀  I'm currently working on [my new keyboard.](http://akoskohl/zmk-config)
+*   ⌨️  I'm currently working on [my new keyboard.](http://akoskohl/zmk-config)
 *   🧠  I'm learning fullstack development with Firebase and GCP as backend.
 *   🤝  I'm open to collaborate and interested to work on cloud based SaaS products.
+
+<! -- your comment -->
 
 </br>
 <p align="left">
