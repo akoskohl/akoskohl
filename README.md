@@ -2,7 +2,7 @@
 
 I'm currently a Google Cloud (infrastructure) Architect.
 </br>
-My goal is to move closer to the software level in the cloud and deliver products, not just infra.
+My goal is to move closer to the software level in the cloud and deliver product related features, not just infra.
 
 </br>   🌍  I'm based in the EU.
 </br>   ✉️  You can contact me at [Linkedin.](https://www.linkedin.com/in/kohlakos)
