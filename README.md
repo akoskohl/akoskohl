@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 My name is Akos.</h1>
+<h1 align="center">Hi, 👋 My name is Akos</h1>
 
 I'm working as a Google Cloud (infrastructure) Architect.
 </br>
