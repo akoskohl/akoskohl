@@ -1,4 +1,4 @@
-Hi 👋 My name is Akos
+Hi 👋 My name is Akos.
 ============================================================================================================================
 
 I'm currently a Google Cloud Architect / Consultant.
@@ -9,7 +9,6 @@ I'm currently a Google Cloud Architect / Consultant.
 *   ⌨️  I'm currently working on [my new keyboard.](http://akoskohl/zmk-config)
 *   🧠  I'm learning fullstack development with Firebase and GCP as backend.
 *   🤝  I'm open to collaborate and interested to work on cloud based SaaS products.
-
 
 </br>
 <p align="center">
