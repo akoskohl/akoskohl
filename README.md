@@ -1,11 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akos
+Hi 👋 My name is Akos
 ============================================================================================================================
 
 I'm currently a Google Cloud Architect / Consultant.
 Want to move closer to the software level in the cloud.
 
 *   🌍  I'm based in the EU.
-
 *   ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/kohlakos/)
 *   ⌨️  I'm currently working on [my new keyboard.](http://akoskohl/zmk-config)
 *   🧠  I'm learning fullstack development with Firebase and GCP as backend.
