@@ -1,4 +1,4 @@
-Hi 👋 My name is Akos.
+<p align="center">Hi 👋 My name is Akos.</p>
 ============================================================================================================================
 
 I'm currently a Google Cloud (infrastructure) Architect.
