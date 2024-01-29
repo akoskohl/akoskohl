@@ -2,7 +2,7 @@ Hi 👋 My name is Akos
 ============================================================================================================================
 
 I'm currently a Google Cloud Architect / Consultant.
-Want to move closer to the software level in the cloud.
+</br>My goal is to move closer to the software level in the cloud and deliver products, not just infra.
 
 *   🌍  I'm based in the EU.
 *   ✉️  You can contact me at [Linkedin](https://www.linkedin.com/in/kohlakos/)
