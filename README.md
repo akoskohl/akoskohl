@@ -1,7 +1,7 @@
 Hi 👋 My name is Akos.
 ============================================================================================================================
 
-I'm currently a Google Cloud Architect / Consultant.
+I'm currently a Google Cloud (infrastructure) Architect.
 </br>
 My goal is to move closer to the software level in the cloud and deliver products, not just infra.
 
