@@ -2,9 +2,9 @@ Hi 👋 My name is Akos.
 ============================================================================================================================
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 I'm currently a Google Cloud Architect / Consultant.
+</br>
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://emojis.slackmojis.com/emojis/images/1643514165/1263/terminal.png?1643514165" width="36" height="36" alt="Google Cloud" /></a>
-
-</br>My goal is to move closer to the software level in the cloud and deliver products, not just infra.
+My goal is to move closer to the software level in the cloud and deliver products, not just infra.
 
 </br>   🌍  I'm based in the EU.
 </br>   ✉️  You can contact me at [Linkedin.](https://www.linkedin.com/in/kohlakos)
