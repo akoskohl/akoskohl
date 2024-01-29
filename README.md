@@ -1,3 +1,4 @@
+<!---
 <h1 align="center">Hi, 👋 My name is Akos</h1>
 
 I'm working as a Google Cloud (infrastructure) Architect.
@@ -23,4 +24,5 @@ My goal is to move closer to the software level and deliver product features, no
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
-<!--- *   🖥️  See my portfolio at [GitHub.](http://github.com/akoskohl) --->
+
+  🖥️  See my portfolio at [GitHub.](http://github.com/akoskohl) --->
