@@ -8,7 +8,7 @@ My goal is to move closer to the software level and deliver product features, no
 </br>   🌍  I'm based in the EU.
 </br>   ✉️  You can contact me at [Linkedin.](https://www.linkedin.com/in/kohlakos)
 </br>   ⌨️  I'm currently building [my new keyboard.](http://akoskohl/zmk-config)
-</br>   🧠  I'm learning fullstack development with Firebase and GCP services as backend.
+</br>   🧠  I'm learning fullstack development with React and Next on the front, Firebase and GCP services at the back.
 </br>   🖥️  I'm currently working on some full stack [hobby project.](http://akoskohl/vote-counter)
 </br>   🤝  I'm open to collaborate and interested to work on cloud based SaaS products.
 </br>   🎓  Check out my GCP certifications [wallet.](https://google.accredible.com/profile/kohlakos/wallet)
