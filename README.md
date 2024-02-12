@@ -1,5 +1,5 @@
 <!---
-<h1 align="center">Hi, 👋 My name is Akos</h1>
+<h1 align="center">Welcome, 🤝 my name is Akos</h1>
 
 I'm working as a Google Cloud (infrastructure) Architect.
 </br>
@@ -10,8 +10,8 @@ My goal is to move closer to the software level and deliver product features, no
 </br>   ⌨️  I'm currently building [my new keyboard.](http://akoskohl/zmk-config)
 </br>   🧠  I'm learning fullstack development with React and Next on the front, Firebase and GCP services at the back.
 </br>   🖥️  I'm currently working on some full stack [hobby project.](http://akoskohl/vote-counter)
-</br>   🤝  I'm open to collaborate and interested to work on cloud based SaaS products.
-</br>   🎓  Check out my GCP certifications [wallet.](https://google.accredible.com/profile/kohlakos/wallet)
+</br>   ☁️  I'm open to collaborate and interested to work on (higly scalable) cloud based SaaS products.
+</br>   🎓  Check out my GCP [certifications wallet.](https://google.accredible.com/profile/kohlakos/wallet)
 
 
 <p align="center"> My Tech Stack</br>
@@ -29,11 +29,12 @@ My goal is to move closer to the software level and deliver product features, no
 
 
 ```
-Github structure
+My Github structure
 │   
+├── vote-counter - Fullstack app to count votes on user generated topics.
 ├── akoskohl - Config files (this homepage readme) for my GitHub profile.
 ├── zmk-config - My personal corne (keyboard) build and configuration.
-├── vote-counter - Fullstack app to count votes on user generated topics.
+├── ds-and-also - My collection practicing datastructures and algorithms.
 └── scripts - Useful scripts from A-Z.
 ```
 
