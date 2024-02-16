@@ -44,6 +44,9 @@ My Github structure
 ├─ akoskohl - "Config files" (this homepage readme) for my GitHub profile.
 ├─ zmk-config - My personal corne (keyboard) build and configuration.
 ├─ vote-counter - Fullstack app to count votes on user generated topics.
+├─ my-tube - Fullstack app to have my own YouTube for videos to keep.
+├─ components - my frontend legoblocks to build things
+│    └─ rolodex-like-component - you can filter cards which is loaded via an API.
 ```
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
