@@ -47,6 +47,10 @@ My Github structure
 ├─ my-tube - Fullstack app to have my own YouTube for videos to keep.
 ├─ components - my frontend legoblocks to build things
 │    └─ rolodex-like-component - you can filter cards which is loaded via an API.
+├─ datastructures and algorithms - practicing hard problems
+│    ├─ adventOfCode-23 - I think do desc is needed.
+│    └─ ds-and-algo - My collection practicing datastructures and algorithms.
+└─ scripts - Useful scripts from A-Z.
 ```
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
