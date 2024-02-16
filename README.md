@@ -1,4 +1,3 @@
-<!---
 <!----
 <h1 align="center">Welcome, 🤝 my name is Akos</h1>
 
@@ -36,11 +35,6 @@ What do I mean about that? I would like to be able to design, develop, test, deb
 ```
 My Github structure
 │   
-├── vote-counter - Fullstack app to count votes on user generated topics.
-├── akoskohl - Config files (this homepage readme) for my GitHub profile.
-├── zmk-config - My personal corne (keyboard) build and configuration.
-├── ds-and-algo - My collection practicing datastructures and algorithms.
-└── scripts - Useful scripts from A-Z.
 ├─ akoskohl - "Config files" (this homepage readme) for my GitHub profile.
 ├─ zmk-config - My personal corne (keyboard) build and configuration.
 ├─ vote-counter - Fullstack app to count votes on user generated topics.
