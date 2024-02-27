@@ -1,4 +1,3 @@
-
 <h1 align="center">Welcome, 🤝 my name is Akos</h1>
 
 I'm working as a Google Cloud (infrastructure) Architect.
@@ -10,14 +9,12 @@ I'm on a journey to become a "self-sufficient full-stack software engineer".
 </br>
 What do I mean about that? I would like to be able to design, develop, test, debug and deploy every component in a software architecture on the cloud.
 </br>
-</br>   🌍  I'm based in the EU.
-</br>   ✉️  You can contact me at [Linkedin.](https://www.linkedin.com/in/kohlakos)
-</br>   ⌨️  I'm currently building [my new keyboard.](http://akoskohl/zmk-config)
-</br>   🧠  I'm learning fullstack development with React on the front, Firebase and GCP services at the back.
-</br>   ☁️  I'm open to collaborate and interested to work on (higly scalable) cloud based SaaS products.
-</br>   🎓  Check out my GCP [certifications wallet.](https://google.accredible.com/profile/kohlakos/wallet)
-
-
+</br> 🌍  I'm based in the EU.
+</br> ✉️  You can contact me at [Linkedin.](https://www.linkedin.com/in/kohlakos)
+</br> ⌨️  I'm currently building [my new keyboard.](https://github.com/akoskohl/zmk-config)
+</br> 🧠  I'm learning fullstack development with React on the front, Firebase and GCP services at the back.
+</br> ☁️  I'm open to collaborate and interested to work on (higly scalable) cloud based SaaS products.
+</br> 🎓  Check out my GCP [certifications wallet.](https://google.accredible.com/profile/kohlakos/wallet)
 
 <p align="center"> My Tech Stack</br>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
@@ -34,7 +31,7 @@ What do I mean about that? I would like to be able to design, develop, test, deb
 
 ```
 My Github structure
-│   
+│
 ├─ akoskohl - "Config files" (this homepage readme) for my GitHub profile.
 ├─ zmk-config - My personal corne (keyboard) build and configuration.
 ├─ vote-counter - Fullstack app to count votes on user generated topics.
@@ -51,5 +48,5 @@ My Github structure
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 
 </br>   🖥️  I'm currently working on some full stack [hobby project.](http://akoskohl/vote-counter)
-│   
+│
   🖥️  See my portfolio at [GitHub.](http://github.com/akoskohl) --->
