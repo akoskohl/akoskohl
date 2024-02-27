@@ -1,4 +1,4 @@
-<!----
+
 <h1 align="center">Welcome, 🤝 my name is Akos</h1>
 
 I'm working as a Google Cloud (infrastructure) Architect.
@@ -14,7 +14,6 @@ What do I mean about that? I would like to be able to design, develop, test, deb
 </br>   ✉️  You can contact me at [Linkedin.](https://www.linkedin.com/in/kohlakos)
 </br>   ⌨️  I'm currently building [my new keyboard.](http://akoskohl/zmk-config)
 </br>   🧠  I'm learning fullstack development with React on the front, Firebase and GCP services at the back.
-</br>   🖥️  I'm currently working on some full stack [hobby project.](http://akoskohl/vote-counter)
 </br>   ☁️  I'm open to collaborate and interested to work on (higly scalable) cloud based SaaS products.
 </br>   🎓  Check out my GCP [certifications wallet.](https://google.accredible.com/profile/kohlakos/wallet)
 
@@ -31,6 +30,7 @@ What do I mean about that? I would like to be able to design, develop, test, deb
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
+<!---
 
 ```
 My Github structure
@@ -50,5 +50,6 @@ My Github structure
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 
+</br>   🖥️  I'm currently working on some full stack [hobby project.](http://akoskohl/vote-counter)
 │   
   🖥️  See my portfolio at [GitHub.](http://github.com/akoskohl) --->
