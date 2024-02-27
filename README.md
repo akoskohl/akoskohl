@@ -6,7 +6,7 @@ I'm working as a Google Cloud (infrastructure) Architect.
 My goal is to move closer to the software level and deliver products, product features, not just infra.
 </br>
 </br>
-I'm on a not so short journey to become a "full-stack self-sufficient software engineer".
+I'm on a journey to become a "self-sufficient full-stack software engineer".
 </br>
 What do I mean about that? I would like to be able to design, develop, test, debug and deploy every component in a software architecture on the cloud.
 </br>
