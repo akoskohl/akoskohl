@@ -14,7 +14,7 @@ What do I mean about that? I would like to be able to design, develop, test, deb
 </br> ⌨️  I'm currently building [my new keyboard.](https://github.com/akoskohl/zmk-config)
 </br> 🧠  I'm learning fullstack development with React on the front, Firebase and GCP services at the back.
 </br> ☁️  I'm open to collaborate and interested to work on (higly scalable) cloud based SaaS products.
-</br> 🎓  Check out my GCP [certifications wallet.](https://google.accredible.com/profile/kohlakos/wallet)
+</br> 🎓  Check out my GCP [certifications wallet.](https://www.credly.com/users/akos-kohl.b6ef1a23)
 
 <p align="center"> My Tech Stack</br>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
