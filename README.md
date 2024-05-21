@@ -1,19 +1,14 @@
-<h1 align="center">Welcome, 🤝 my name is Akos</h1>
+<h1>Welcome 🤝 I'm Akos</h1>
 
 I'm working as a Google Cloud (infrastructure) Architect.
 </br>
+</br>
 My goal is to move closer to the software level and deliver products, product features, not just infra.
 </br>
+I would like to be able to design, develop, test, debug and deploy every component in a software architecture on the cloud.
 </br>
-I'm on a journey to become a "self-sufficient full-stack software engineer".
-</br>
-What do I mean about that? I would like to be able to design, develop, test, debug and deploy every component in a software architecture on the cloud.
-</br>
-</br> 🌍  I'm based in the EU.
+</br> ☁️  I'm open to collaborate and interested to work on SaaS products.
 </br> ✉️  You can contact me at [Linkedin.](https://www.linkedin.com/in/kohlakos)
-</br> ⌨️  I'm currently building [my new keyboard.](https://github.com/akoskohl/zmk-config)
-</br> 🧠  I'm learning fullstack development with React on the front, Firebase and GCP services at the back.
-</br> ☁️  I'm open to collaborate and interested to work on (higly scalable) cloud based SaaS products.
 </br> 🎓  Check out my GCP [certifications wallet.](https://www.credly.com/users/akos-kohl.b6ef1a23)
 
 <p align="center"> My Tech Stack</br>
@@ -23,8 +18,8 @@ What do I mean about that? I would like to be able to design, develop, test, deb
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
 <!---
@@ -48,5 +43,6 @@ My Github structure
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 
 </br>   🖥️  I'm currently working on some full stack [hobby project.](http://akoskohl/vote-counter)
+</br> 🌍  I'm based in the EU.
 │
   🖥️  See my portfolio at [GitHub.](http://github.com/akoskohl) --->
