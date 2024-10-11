@@ -2,7 +2,7 @@ Welcome 🤝 I'm Akos,
 working as a Cloud Architect, specialized in Google Cloud.
 </br>
 </br>
-I would like to be able to design, develop, test, debug and deploy every component in a software architecture on the cloud.
+I would like to be able to design, develop, test and deploy every component in the software architecture on the cloud.
 </br>
 </br> ☁️  I'm open to collaborate and interested to work on SaaS products.
 </br> ✉️  You can contact me at [Linkedin.](https://www.linkedin.com/in/kohlakos)
