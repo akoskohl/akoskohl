@@ -1,8 +1,6 @@
 Welcome 🤝 I'm Akos,
-working as a Google Cloud Architect.
+working as a Cloud Architect, specialized in Google Cloud.
 </br>
-</br>
-My goal is to shift to the software level and deliver products, product features, not just infra.
 </br>
 I would like to be able to design, develop, test, debug and deploy every component in a software architecture on the cloud.
 </br>
