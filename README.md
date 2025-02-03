@@ -5,8 +5,8 @@ working as a Cloud Architect, specialized in Google Cloud.
 I would like to be able to design, develop, test and deploy every component in the software architecture on the cloud.
 </br>
 </br> ☁️  I'm open to collaborate and interested to work on SaaS products.
-</br> ✉️  You can contact me at <a href="https://www.linkedin.com/in/kohlakos" target="_blank">LinkedIn</a>.
-</br> 🎓  Check out my <a href="https://www.credly.com/users/akos-kohl" target="_blank">certifications wallet</a>.
+</br> ✉️ You can contact me at <a href="https://www.linkedin.com/in/kohlakos" target="_blank" rel="noopener noreferrer">LinkedIn</a>.
+</br> 🎓 Check out my <a href="https://www.credly.com/users/akos-kohl" target="_blank" rel="noopener noreferrer">certifications wallet</a>.
 
 
 </br> ✉️  You can contact me at [Linkedin.](https://www.linkedin.com/in/kohlakos)
