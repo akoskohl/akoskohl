@@ -6,7 +6,7 @@ I would like to be able to design, develop, test and deploy every component in t
 </br>
 </br> ☁️  I'm open to collaborate and interested to work on SaaS products.
 </br> ✉️  You can contact me at [Linkedin.](https://www.linkedin.com/in/kohlakos)
-</br> 🎓  Check out my GCP [certifications wallet.](https://www.credly.com/users/akos-kohl.b6ef1a23)
+</br> 🎓  Check out my [certifications wallet.](https://www.credly.com/users/akos-kohl)
 
 <p align="center"> My Tech Stack</br>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
